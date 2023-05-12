@@ -1,0 +1,15 @@
+package Taskk1
+
+fun main(){
+
+    println("enter the num1")
+    val num1= readln().toInt()
+
+    println("enter the num2")
+    val num2= readln().toInt()
+
+    println("sum=${num1+num2}")
+    println("subtract=${num1-num2}")
+    println("Multiply=${num1*num2}")
+    println("division=${num1/num2}")
+}
